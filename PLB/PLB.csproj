@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="img\1.jpg" />
+	</ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\serder\serder.csproj" />
+    <ProjectReference Include="..\Styles\Styles.csproj" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="WindowsAPICodePack-Shell" Version="1.1.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Resource Include="img\1.jpg">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+	</ItemGroup>
+
+</Project>

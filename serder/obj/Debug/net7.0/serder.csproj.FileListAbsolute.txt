@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\PLB\serder\bin\Debug\net7.0\serder.deps.json
+C:\Users\Admin\Desktop\PLB\serder\bin\Debug\net7.0\serder.dll
+C:\Users\Admin\Desktop\PLB\serder\bin\Debug\net7.0\serder.pdb
+C:\Users\Admin\Desktop\PLB\serder\obj\Debug\net7.0\serder.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PLB\serder\obj\Debug\net7.0\serder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\PLB\serder\obj\Debug\net7.0\serder.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PLB\serder\obj\Debug\net7.0\serder.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PLB\serder\obj\Debug\net7.0\serder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PLB\serder\obj\Debug\net7.0\serder.dll
+C:\Users\Admin\Desktop\PLB\serder\obj\Debug\net7.0\refint\serder.dll
+C:\Users\Admin\Desktop\PLB\serder\obj\Debug\net7.0\serder.pdb
+C:\Users\Admin\Desktop\PLB\serder\obj\Debug\net7.0\ref\serder.dll
